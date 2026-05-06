@@ -58,7 +58,6 @@ struct Profil
     int yeux;
     int style;
     int saison;
-    int age;
 };
 typedef struct Profil Profil;
 
