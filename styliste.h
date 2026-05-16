@@ -63,7 +63,7 @@ typedef struct Profil Profil;
 
 // ----- FONCTIONS -----
 
-int choisir_tenue(Profil p);
+int choisir_occasion(Profil p);
 void afficher_tenue(int tenue);
 
 #endif
